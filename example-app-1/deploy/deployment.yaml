@@ -5,7 +5,6 @@ metadata:
   labels:
     app: example-app-1
   namespace: default
-  
 spec:
   selector:
     matchLabels:
